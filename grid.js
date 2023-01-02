@@ -30,7 +30,8 @@ btn.addEventListener('click', function () {
 
 btnRemove.addEventListener('click', function () {
     input.value = ''
-    input.style.background = ''
+    input.style.backgroundColor = 'white'
+    background = 'white'
 
 })
 
